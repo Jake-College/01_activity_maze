@@ -48,7 +48,7 @@ Follow the instructions below to download and install the following tools on you
 + **Mac**:
 I have found that by simply typing `git` in the terminal, it prompts to install the necessary command line tools from `XCode` which includes `Git` (and other programming tools). Follow the prompts to complete the installation.
 
-  Install using Homebrew:
+  Install using Homebrew (*Note*: Homebrew can be downloaded from [https://brew.sh/](https://brew.sh/)):
 
   ```sh
   brew install git
