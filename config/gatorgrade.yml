@@ -25,7 +25,7 @@
 - writing/reflection.md:
   - description: Ensure that reflection.md file exists in the writing/ directory
     check: ConfirmFileExists
-  - description: Write a minimum number of meaningful words in the reflection
+  - description: Write a minimum number of meaningful words (around 80) in the reflection
     check: CountFileWords
     options:
       count: 80
