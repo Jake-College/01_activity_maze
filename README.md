@@ -4,7 +4,7 @@ Activity 01: Installing Essential Tools and Solving the Maze
 
 ## Assigned: Friday, 29 August 2025
 
-## Due: Monday, 1st September 2025, by 10:00am (end of class) via GitHub
+## Due: Monday, 1st September 2025, by 11:00am (end of class) via GitHub
 
 ## Table of contents
 - [CS101: Data Structures](#cs101-data-structures)
