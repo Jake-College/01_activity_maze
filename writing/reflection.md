@@ -66,5 +66,9 @@ Q10: Based on your experience, what are some strategies for writing instructions
 
 `TODO`
 
+Q11: Please place your maze solution "code" below.
+
+`TODO`
+
 ---
 (Did you remember to write your name above?)
