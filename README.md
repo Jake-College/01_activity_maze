@@ -6,10 +6,12 @@ Activity 01: Installing Essential Tools and Solving the Maze
 
 ## Due: Monday, 1st September 2025, by 11:00am (end of class) via GitHub
 
+![Maze Example](graphics/logo.png)
+
 ## Table of contents
 - [CS101: Data Structures](#cs101-data-structures)
   - [Assigned: Friday, 29 August 2025](#assigned-friday-29-august-2025)
-  - [Due: Monday, 1st September 2025, by 10:00am (end of class) via GitHub](#due-monday-1st-september-2025-by-1000am-end-of-class-via-github)
+  - [Due: Monday, 1st September 2025, by 11:00am (end of class) via GitHub](#due-monday-1st-september-2025-by-1100am-end-of-class-via-github)
   - [Table of contents](#table-of-contents)
   - [Deliverables](#deliverables)
   - [Project Goals](#project-goals)
@@ -191,6 +193,7 @@ This activity will be checked by Gatorgrade for completion when it is submitted 
   ```bash
   gatorgrade --config config/gatorgrade.yml
   ```
+
 ---
 
 ## Part 2: Maze Solving and Instruction Exchange
@@ -214,5 +217,5 @@ Writing clear and precise instructions is a crucial skill in programming and col
 
 ## Reflection Questions
 
-Please open the `writing/reflection.md` file and answer the questions there. Be sure to replace all instances of `TODO` with your answers. If you have any questions about the reflection, please ask!
+Please open the `writing/reflection.md` file and answer the questions there. Be sure to replace all instances of `To-Do` with your answers. If you have any questions about the reflection, please ask!
 
